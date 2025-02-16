@@ -1,3 +1,3 @@
 # git_test
 Hello Odin!
-TESTING
+Test after GitHub rename
